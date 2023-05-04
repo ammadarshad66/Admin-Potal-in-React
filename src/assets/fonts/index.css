@@ -1,0 +1,169 @@
+@font-face {
+  font-family: "Lato-Thin";
+  src: url("Lato-Thin.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Lato-ThinItalic";
+  src: url("Lato-ThinItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Lato-Light";
+  src: url("Lato-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Lato-LightItalic";
+  src: url("Lato-LightItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Lato-Regular";
+  src: url("Lato-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Lato-Italic";
+  src: url("Lato-Italic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Lato-Bold";
+  src: url("Lato-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Lato-BoldItalic";
+  src: url("Lato-BoldItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Lato-Black";
+  src: url("Lato-Black.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Lato-BlackItalic";
+  src: url("Lato-BlackItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Lato-Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Lato-Regular"), url("Lato-Regular.ttf") format("truetype");
+}
+.thin-font {
+  font-family: "Lato-Thin";
+}
+.thin-italic-font {
+  font-family: "Lato-ThinItalic";
+}
+.light-font {
+  font-family: "Lato-Light";
+}
+.light-italic-font {
+  font-family: "Lato-LightItalic";
+}
+.regular-font {
+  font-family: "Lato-Regular";
+}
+.regular-italic-font {
+  font-family: "Lato-Italic";
+}
+.bold-font {
+  font-family: "Lato-Bold";
+}
+.bold-italic-font {
+  font-family: "Lato-BoldItalic";
+}
+.extra-bold-font {
+  font-family: "Lato-Black";
+}
+.extra-italic-bold-font {
+  font-family: "Lato-BlackItalic";
+}
+.font-10 {
+  font-size: 10px;
+}
+.font-12 {
+  font-size: 12px;
+}
+.font-14 {
+  font-size: 14px;
+}
+.font-16 {
+  font-size: 16px;
+}
+.font-18 {
+  font-size: 18px;
+}
+.font-20 {
+  font-size: 20px;
+}
+.font-22 {
+  font-size: 22px;
+}
+.font-24 {
+  font-size: 24px;
+}
+.font-26 {
+  font-size: 26px;
+}
+.font-28 {
+  font-size: 28px;
+}
+.font-30 {
+  font-size: 30px;
+}
+.font-32 {
+  font-size: 32px;
+}
+.font-34 {
+  font-size: 34px;
+}
+.font-36 {
+  font-size: 36px;
+}
+.font-38 {
+  font-size: 38px;
+}
+.font-40 {
+  font-size: 40px;
+}
+.font-42 {
+  font-size: 42px;
+}
+.font-44 {
+  font-size: 44px;
+}
+.font-46 {
+  font-size: 46px;
+}
+.font-48 {
+  font-size: 48px;
+}
+.font-50 {
+  font-size: 50px;
+}
+.font-52 {
+  font-size: 52px;
+}
+.font-54 {
+  font-size: 54px;
+}
+.font-56 {
+  font-size: 56px;
+}
+.font-58 {
+  font-size: 58px;
+}
+.font-60 {
+  font-size: 60px;
+}
+.color-111827 {
+  color: #111827;
+}
+.color-8C9197 {
+  color: #8c9197;
+}
+.color-973BFF {
+  color: #973bff;
+}
+.color-9C9EA5 {
+  color: #9c9ea5;
+}
+.pointer {
+  cursor: pointer;
+}
